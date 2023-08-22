@@ -1,6 +1,7 @@
 import Sidebar from "./layout/Sidebar";
 import FollowBar from "./layout/FollowBar";
 
+//client component
 interface LayoutProps {
     children: React.ReactNode;
 }
